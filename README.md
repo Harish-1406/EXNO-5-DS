@@ -124,4 +124,4 @@ plt.show()
 <img width="402" height="389" alt="image" src="https://github.com/user-attachments/assets/9a90b82a-d148-443b-a068-e98487701cb3" />
 
 # Result:
-From this experiment , I have learnt that how the different plots in data visualization works effectively.Like how Line chart and Spline chart helps to show the trends and relationships between variables. Also these visualization helps to discover trends and patterns that help to analyse the data.
+From this experiment , I have learnt that how the different plots in data visualization works effectively.Like Line chart and Spline chart helps to show the trends and relationships between variables. Also these visualization helps to discover trends and patterns that help to analyse the dataset.
