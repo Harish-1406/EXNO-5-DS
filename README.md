@@ -18,12 +18,12 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+## Line Plot
 ```py
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 ```
-## Line Plot
 ```py
 # CREATE A LINE GRAPH FOR X AND Y AND LABEL X axis and Y Axis and create a legend
 x = [1, 2, 3, 4, 5]
